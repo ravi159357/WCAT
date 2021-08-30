@@ -18,6 +18,7 @@ for(let i of arguments)
         filenames.push(i);
     }        
 }
+        
         // //console.log(flags);  -> prints the segregated flags array
         // //1. wcat file1 file2 -> prints all files one by one
         // if(flags.length == 0 && filenames.length != 0){ 

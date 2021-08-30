@@ -119,7 +119,7 @@ function removeExtraLines(content){
     for(let i=0;i<ansArr.length;i++){
       //  console.log(ansArr[i]);
     }
-    
+
 }
 
 function removeManyExtraLines(content){
@@ -143,4 +143,5 @@ function removeManyExtraLines(content){
     for(let i=0;i<data.length;i++){
         console.log(data[i]);
       }
+      
 }
